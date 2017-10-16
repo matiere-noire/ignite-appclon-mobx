@@ -1,10 +1,10 @@
 {
-  "name": "ignite-appclon-mobx",
-  "description": "appclon mobx + react-navigation boilerplate",
+  "name": "ignite-matnoire-mobx",
+  "description": "Ignite + mobx + react-navigation boilerplate",
   "license": "MIT",
-  "repository": "Appclon/ignite-appclon-mobx",
-  "homepage": "https://github.com/Appclon/ignite-appclon-mobx",
-  "version": "0.0.2",
+  "repository": "matiere-noire/ignite-matnoire-mobx",
+  "homepage": "https://github.com/matiere-noire/ignite-matnoire-mobx",
+  "version": "0.0.3",
   "files": [
     "boilerplate",
     "commands",
@@ -16,9 +16,9 @@
     "screenExamples.js"
   ],
   "author": {
-    "name": "paolo-mosca",
-    "email": "hola@appclon.es",
-    "url": "https://github.com/Appclon/ignite-appclon-mobx"
+    "name": "croustibat",
+    "email": "baptiste@matierenoire.io",
+    "url": "https://github.com/matiere-noire/ignite-matnoire-mobx"
   },
   "scripts": {
     "lint": "standard",

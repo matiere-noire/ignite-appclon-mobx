@@ -1,19 +1,14 @@
-# Ignite [Appclon](http://appclon.es) boilerplate
+# Ignite + Mobx + React Navigation Boilerplate
+
+## Forked from Ignite [Appclon](http://appclon.es) boilerplate
 ## Basic MobX boilerplate for Ignite (by [Infinite Red](https://infinite.red))
-
-
-### Appclon + Ignite Boilerplate
-
-<p align="center">
-  <a href="http://appclon.es"><img src="http://appclon.es/wp-content/uploads/2017/04/Appclon-ignite.png" alt="Appclon Ignite" width="300px"></a>
-</p>
 
 ### Quick Example
 
 ```
 $ npm install -g ignite-cli
-$ ignite new AppclonMobX -b appclon-mobx
-$ cd AppclonMobX
+$ ignite new IgniteMobX -b ignite-matnoire-mobx
+$ cd IgniteMobX
 $ react-native run-ios
 
 or
@@ -67,28 +62,6 @@ MobX documentation? [Go here](https://mobx.js.org/)
 
 React-Navigation documentation? [Go here](https://reactnavigation.org/docs/navigators/)
 
-## :telescope: Where to Go From Here :telescope:
-
-#### [Who we are?](http://appclon.es) - Learn More About Appclon Project
-
-## :heart: Special Thanks :heart:
-
-#### [Who inspired me?](https://blog.callstack.io/write-react-native-apps-in-2017-style-with-mobx-e2dffc209fcb) - Write React-Native apps in 2017 style with MobX
-#### [Who created Ignite?](https://infinite.red) - Learn More About Infinite Red
-
-## Premium Support
-
-[Appclon Boilerplate for Ignite](https://github.com/Appclon/ignite-appclon-mobx), as open source projects, is free to use and always will be.
-
-[Appclon](http://appclon.es) offers Mobile app design/development services. Email us at [hola@appclon.es](mailto:hola@appclon.es) to get in touch with us for more details.
-
-## TODO
-
-- [ ] Improving code documentation
-- [ ] Ignite Screen generator
-- [ ] Ignite MobX Store generator
-- [ ] Test Automation and generators
-
 ## Credits
 
-Written by [Paolo Mosca](https://www.linkedin.com/in/paolomosca)
+Originally Written by [Paolo Mosca](https://www.linkedin.com/in/paolomosca)

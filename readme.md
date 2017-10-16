@@ -9,11 +9,8 @@
 $ npm install -g ignite-cli
 $ ignite new IgniteMobX -b ignite-matnoire-mobx
 $ cd IgniteMobX
-$ react-native run-ios
-
-or
-
-$ react-native run-android
+$ npm install (or yarn)
+$ react-native run-ios (or run-android)
 ```
 
 ### Why Ignite?
